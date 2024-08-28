@@ -65,7 +65,6 @@ str_list = ["Niel", "Henry", "ana", "Jacob", "talha", "Arun"]
 str_list.sort(key=str.lower, reverse=True)
 print(str_list)
 
-
 # Creating a copy of list
 
 original_list = list([1, 24, 2, 654])
